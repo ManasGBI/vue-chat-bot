@@ -9,8 +9,8 @@
       :key="index"
     )
       button.qkb-mb-button-options__btn(
-        v-if="item.action === 'postback'",
-        @click="selectOption(item)"
+        v-if="item.action === 'function'",
+        @click="item.value"
       )
         span {{ item.text }}
       a.qkb-mb-button-options__btn.qkb-mb-button-options__url(
