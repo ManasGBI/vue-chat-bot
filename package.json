@@ -51,11 +51,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cuoool/vue-chat-bot.git.git"
+    "url": "git+https://github.com/ManasGBI/vue-chat-bot.git.git"
   },
   "bugs": {
     "url": "https://github.com/cuoool/vue-chat-bot.git/issues"
   },
-  "homepage": "https://github.com/cuoool/vue-chat-bot.git#readme",
+  "homepage": "https://github.com/ManasGBI/vue-chat-bot.git#readme",
   "license": "MIT"
 }
